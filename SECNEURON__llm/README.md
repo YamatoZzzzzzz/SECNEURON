@@ -198,3 +198,8 @@ python advanced_secneuron_llm.py ^
 6. 使用 HumanEval / MBPP 的真实 pass@k；
 7. 设计更强 PII extraction 和 membership inference attack；
 8. 将能力控制从神经元层扩展到 Adapter / LoRA 层。
+
+Statement：
+项目名称（Project Name)：SECNEURON
+项目作者(Author)：Wenbin Wang，Zhen Chen
+作者单位(Affiliation)：暨南大学网络空间安全学院(College of Cyber Security，Jinan University)
