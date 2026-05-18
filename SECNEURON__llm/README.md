@@ -1,6 +1,6 @@
 # SECNEURON-LLM-Advanced-CN
 
-中文注释版 SECNEURON 风格 LLM 复现实验脚手架。
+
 
 本项目用于在小型 LLM（如 `facebook/opt-125m` / `facebook/opt-350m`）上近似复现 SECNEURON 的关键实验逻辑，包括任务级能力控制、数据级滥用防护、多任务动态权限控制、代码生成能力抑制，以及任务特异神经元选择与朴素剪枝对比。
 
